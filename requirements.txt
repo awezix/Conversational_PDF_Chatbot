@@ -7,3 +7,5 @@ langchain_text_splitters
 langchain_huggingface
 langchain_groq
 dotenv
+sentence-transformers
+pypdf
